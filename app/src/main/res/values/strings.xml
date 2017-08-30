@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">20170718project</string>
+    <string name="app_name">陰曆</string>
     <string-array name="dataMon">
         <item>1</item>
         <item>2</item>
